@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T17:03:12.014Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mjKGAUTUSCSSZdpA7MvB" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T17:05:04.759Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="AUvWmX8CJ-b7tVkfC4dI" version="14.2.4" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="1968" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
             <mxPoint x="330" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UKibFJUTQtaGNqMHc8IM-21" value="2.1&lt;br&gt;Produk" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="UKibFJUTQtaGNqMHc8IM-21" value="2.2&lt;br&gt;Kategori" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UKibFJUTQtaGNqMHc8IM-24" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKibFJUTQtaGNqMHc8IM-25">
@@ -112,7 +112,7 @@
             <mxPoint x="240" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UKibFJUTQtaGNqMHc8IM-25" value="2.2&lt;br&gt;Kategori" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="UKibFJUTQtaGNqMHc8IM-25" value="2.1&lt;br&gt;Produk" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UKibFJUTQtaGNqMHc8IM-34" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKibFJUTQtaGNqMHc8IM-35">
@@ -169,7 +169,7 @@
             <mxPoint x="900" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UKibFJUTQtaGNqMHc8IM-45" value="3.2&lt;br&gt;Detil Pembelian" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="UKibFJUTQtaGNqMHc8IM-45" value="3.3&lt;br&gt;Pembayaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="860" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UKibFJUTQtaGNqMHc8IM-46" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKibFJUTQtaGNqMHc8IM-47">
